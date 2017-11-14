@@ -1,0 +1,29 @@
+<view class="main">
+    <view class="banner">
+        <image src="/image/list1.png"></image>
+    </view>
+
+    <view class="list-box">
+        <view class="newest-list">
+            <navigator url="../details/details">
+                <image src="/image/s4.png"></image>
+                <view class="newest-text"><text>衬衫</text></view>
+                <view class="newest-text"><text>￥ 100</text></view>
+            </navigator>
+        </view>
+        <view class="newest-list">
+            <navigator url="../details/details">
+                <image src="/image/s5.png"></image>
+                <view class="newest-text"><text>无烟锅</text></view>
+                <view class="newest-text"><text>￥ 479</text></view>
+            </navigator>
+        </view>
+        <view class="newest-list">
+            <navigator url="../details/details">
+                <image src="/image/s6.png"></image>
+                <view class="newest-text"><text>主机</text></view>
+                <view class="newest-text"><text>￥ 3229</text></view>
+            </navigator>
+        </view>
+    </view>
+</view>

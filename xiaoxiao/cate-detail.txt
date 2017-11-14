@@ -1,0 +1,188 @@
+[
+  {
+    "id":"a",
+    "banner":"/image/c1.png",
+    "cate":"数码",
+    "detail":[
+      {
+        "thumb":"/image/c2.png",
+        "name":"数码1"
+      },
+      {
+        "thumb": "/image/c3.png",
+        "name": "数码2"
+      },
+      {
+        "thumb": "/image/c4.png",
+        "name": "数码3"
+      },
+      {
+        "thumb": "/image/c4.png",
+        "name": "数码4"
+      },
+      {
+        "thumb": "/image/c3.png",
+        "name": "数码5"
+      },
+      {
+        "thumb": "/image/c2.png",
+        "name": "数码6"
+      }
+    ]
+  },
+  {
+    "id": "b",
+    "banner": "/image/c1.png",
+    "cate": "服装",
+    "detail": [
+      {
+        "thumb": "/image/s4.png",
+        "name": "服装1"
+      },
+      {
+        "thumb": "/image/s5.png",
+        "name": "服装2"
+      },
+      {
+        "thumb": "/image/s6.png",
+        "name": "服装3"
+      },
+      {
+        "thumb": "/image/s6.png",
+        "name": "服装4"
+      },
+      {
+        "thumb": "/image/s5.png",
+        "name": "服装5"
+      },
+      {
+        "thumb": "/image/s4.png",
+        "name": "服装6"
+      }
+    ]
+  },
+  {
+    "id": "c",
+    "banner": "/image/c1.png",
+    "cate": "香水",
+    "detail": [
+      {
+        "thumb": "/image/c2.png",
+        "name": "香水1"
+      },
+      {
+        "thumb": "/image/c3.png",
+        "name": "香水2"
+      },
+      {
+        "thumb": "/image/c4.png",
+        "name": "香水3"
+      },
+      {
+        "thumb": "/image/c4.png",
+        "name": "香水4"
+      },
+      {
+        "thumb": "/image/c3.png",
+        "name": "香水5"
+      },
+      {
+        "thumb": "/image/c2.png",
+        "name": "香水6"
+      }
+    ]
+  },
+  {
+    "id": "d",
+    "banner": "/image/c1.png",
+    "cate": "户外",
+    "detail": [
+      {
+        "thumb": "/image/s4.png",
+        "name": "户外1"
+      },
+      {
+        "thumb": "/image/s5.png",
+        "name": "户外2"
+      },
+      {
+        "thumb": "/image/s6.png",
+        "name": "户外3"
+      },
+      {
+        "thumb": "/image/s6.png",
+        "name": "户外4"
+      },
+      {
+        "thumb": "/image/s5.png",
+        "name": "户外5"
+      },
+      {
+        "thumb": "/image/s4.png",
+        "name": "户外6"
+      }
+    ]
+  },
+  {
+    "id": "e",
+    "banner": "/image/c1.png",
+    "cate": "茶叶",
+    "detail": [
+      {
+        "thumb": "/image/c2.png",
+        "name": "茶叶1"
+      },
+      {
+        "thumb": "/image/c3.png",
+        "name": "茶叶2"
+      },
+      {
+        "thumb": "/image/c4.png",
+        "name": "茶叶3"
+      },
+      {
+        "thumb": "/image/c4.png",
+        "name": "茶叶4"
+      },
+      {
+        "thumb": "/image/c3.png",
+        "name": "茶叶5"
+      },
+      {
+        "thumb": "/image/c2.png",
+        "name": "茶叶6"
+      }
+    ]
+  },
+  {
+    "id": "f",
+    "banner": "/image/c1.png",
+    "cate": "零食",
+    "detail": [
+      {
+        "thumb": "/image/s4.png",
+        "name": "零食1"
+      },
+      {
+        "thumb": "/image/s5.png",
+        "name": "零食2"
+      },
+      {
+        "thumb": "/image/s6.png",
+        "name": "零食3"
+      },
+      {
+        "thumb": "/image/s6.png",
+        "name": "零食4"
+      },
+      {
+        "thumb": "/image/s5.png",
+        "name": "零食5"
+      },
+      {
+        "thumb": "/image/s4.png",
+        "name": "零食6"
+      }
+    ]
+  }
+]
